@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-- 🎓 Estudando Ciência da Computação no UFOP.
+- 🎓 Estudando Ciência da Computação na UFOP.
 
 ## Minhas Skills
 
